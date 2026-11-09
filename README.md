@@ -203,6 +203,8 @@ A chromosome-level assembly identifies the chromosomes but does not determine th
 
 The sex-chromosome dosage analysis of *Danaus plexippus* produced a Z:A ratio of **1.023**, indicating a **ZZ-like chromosome dosage pattern**, consistent with a male individual. This agrees with the recorded male sex of the WGS donor. Although the inference may be affected by sequencing and mapping limitations, the results support the male sex inference.
 
+**Limitations:** The sex inference was based on sequencing depth, which may be affected by mapping bias, repetitive sequences, and reference genome errors. The W chromosome was not included in the analysis, so its coverage could not be determined.
+
 ---
 
 ## VIII. Galaxy History and References
